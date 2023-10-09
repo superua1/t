@@ -5,14 +5,14 @@
     },
     {
         "title": "Blog Paylaşımı",
-        "color": "sari",
-        "titlecolor": "text-warning",
-        "description": "Yeni düzenleme"
+        "link": "https://www.linuxdersleri.net/docs/temel_linux/1.html",
+        "month": "Tem",
+        "day": "15"
     },
     {
-        "title": "Ürün 3",
-        "color": "sari",
-        "titlecolor": "text-warning",
-        "description": "Bu ürünün açıklaması 3."
+        "title": "Blog 2 Paylaşımı",
+        "link": "https://www.linuxdersleri.net/docs/temel_linux/1.html",
+        "month": "Ağu",
+        "day": "25"
     }
 ]
