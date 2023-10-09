@@ -1,19 +1,8 @@
 [
-    {
-        "attr": "
-        "tarih": "<span class="small text-success yesil" data-toggle="tooltip" data-placement="bottom">Ayın Kupon kodu</span>",
-        "kupon": "Video eğitime indirimli şekilde katılmak isterseniz 'EYLUL23' kupon kodunu kullanabilirsiniz."
-    },
-    {
-        "title": "Blog Paylaşımı",
-        "link": "https://www.linuxdersleri.net/docs/temel_linux/1.html",
-        "month": "Tem",
-        "day": "15"
-    },
-    {
-        "title": "Blog 2 Paylaşımı",
-        "link": "https://www.linuxdersleri.net/docs/temel_linux/1.html",
-        "month": "Ağu",
-        "day": "25"
-    }
+{
+  "indirimKuponu": {
+    "baslangicTarihi": "2023-10-01",
+    "bitisTarihi": "2023-10-31",
+    "kuponMetni": "İndirim Kuponu Metni"
+  }
 ]
