@@ -24,12 +24,16 @@
       "yayin_tarihi": "2023-10-08"
     },
     {
-      "baslik": "Blog Yazısı 2",
+      "tur": "Yeni Blog Paylaşımı",
+      "baslik": "root?",
+      "link": "http://localhost:4000/apt-ile-apt-get-fark%C4%B1",
       "yayin_tarihi": "2023-10-09"
     },
     {
-      "baslik": "Blog Yazısı 3",
-      "yayin_tarihi": "2023-12-10"
+      "tur": "Yeni Blog Paylaşımı",
+      "baslik": "apt ?",
+      "link": "http://localhost:4000/apt-ile-apt-get-fark%C4%B1",
+      "yayin_tarihi": "2023-10-10"
     }
   ]
 }
