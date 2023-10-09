@@ -2,7 +2,7 @@
   "kuponlar": [
     {
       "kupon_kodu": "KUPON1",
-      "baslangic_tarihi": "2023-10-10",
+      "baslangic_tarihi": "2023-10-09",
       "bitis_tarihi": "2023-10-20"
     },
     {
@@ -19,11 +19,11 @@
   "blog_paylasimlari": [
     {
       "baslik": "Blog Yazısı 1",
-      "yayin_tarihi": "2023-10-15"
+      "yayin_tarihi": "2023-10-08"
     },
     {
       "baslik": "Blog Yazısı 2",
-      "yayin_tarihi": "2023-11-05"
+      "yayin_tarihi": "2023-11-09"
     },
     {
       "baslik": "Blog Yazısı 3",
