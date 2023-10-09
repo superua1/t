@@ -1,6 +1,7 @@
 [
     {
         "title": "Duyuru",
+        "color": "mavi",
         "description": "Bu ürünün açıklaması 1.",
         "image": "https://raw.githubusercontent.com/superua1/superua1.github.io/main/data/img/computer.webp"
     },
