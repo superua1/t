@@ -1,9 +1,7 @@
 [
     {
-        "title": "Ayın İndirim Kuponu 🎫",
-        "color": "yesil",
-        "titlecolor": "text-success",
-        "description": "Video eğitime, 'EYLUL32' kupon kodu ile 23.12.22 tarihine kadar indirimli şekilde kayıt olabilirsiniz. "
+        "tarih": "15.12.2023",
+        "kupon": "Video eğitime indirimli şekilde katılmak isterseniz 'EYLUL23' kupon kodunu kullanabilirsiniz."
     },
     {
         "title": "Blog Paylaşımı",
