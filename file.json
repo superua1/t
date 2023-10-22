@@ -1,26 +1,17 @@
 {
   "kuponlar": [
     {
-      "kupon_kodu": "KUPON1",
-      "baslangic_tarihi": "2023-10-09",
-      "bitis_tarihi": "2023-10-21"
+      "kupon_kodu": "GUNCEL",
+      "baslangic_tarihi": "2023-10-22",
+      "link": "https://www.udemy.com/course/kali-linux-ile-sifirdan-temel-linux-egitimi/?couponCode=GUNCEL",
+      "bitis_tarihi": "2023-11-22"
     },
-    {
-      "kupon_kodu": "KUPON2",
-      "baslangic_tarihi": "2023-11-01",
-      "bitis_tarihi": "2023-11-10"
-    },
-    {
-      "kupon_kodu": "KUPON3",
-      "baslangic_tarihi": "2023-12-05",
-      "bitis_tarihi": "2023-12-15"
-    }
   ],
   "blog_paylasimlari": [
     {
       "tur": "Yeni Blog Paylaşımı",
-      "baslik": "apt ile apt-get Arasındaki Fark Nedir ?",
-      "link": "http://localhost:4000/apt-ile-apt-get-fark%C4%B1",
+      "baslik": "Linux Üzerinde Regex Kullanımı",
+      "link": "https://www.linuxdersleri.net/linux-regex",
       "yayin_tarihi": "2023-10-08"
     }
   ]
