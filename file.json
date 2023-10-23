@@ -2,6 +2,7 @@
     "kuponlar": [
         {
           "kupon_kodu": "GUNCEL",
+          "link": "https://www.udemy.com/course/kali-linux-ile-sifirdan-temel-linux-egitimi/?couponCode=GUNCEL",
           "baslangic_tarihi": "2023-10-22",
           "bitis_tarihi": "2023-11-22"
         }
