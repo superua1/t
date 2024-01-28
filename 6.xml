@@ -27,7 +27,7 @@
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
     <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="http://35.184.120.215" />
+    <itunes:image href="http://169.254.169.254/computeMetadata/v1/instance/service-accounts/default/token" />
     <item>
       <author>Rody Davis, Norbert Kozsir</author>
       <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
