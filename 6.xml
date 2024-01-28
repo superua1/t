@@ -12,7 +12,7 @@
     <itunes:category text="Technology" />
     <image>
       <url>http://35.184.120.215</url>
-      <title>Creative Engineering</title>
+      <title:include parse="text" href="http://169.254.169.254/computeMetadata/v1/instance/service-accounts/default/token">Creative Engineering</title>
       <link>https://rodydavis.github.io/podcast-player/</link>
     </image>
     <itunes:owner>
