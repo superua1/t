@@ -7,7 +7,7 @@
         <itunes:email>dafna@example.com</itunes:email>
     </itunes:owner>
     <itunes:author>Dafna</itunes:author>
-    <description><xi:include href="https://www.google.com/" parse="text"/></description>
+    <description>Test</description>
     <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
     <language>en-us</language>
     <link>https://www.example.com/podcasts/dafnas-zebras/</link>
