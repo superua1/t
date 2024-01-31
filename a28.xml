@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<x:script xmlns:x="http://www.w3.org/1999/xhtml">alert(document.cookie)</x:script>
 <rss version="2.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <x:script xmlns:x="http://www.w3.org/1999/xhtml">alert(document.cookie)</x:script>
   <channel>
     <title>Dafna's Zebra Podcast</title>
     <itunes:owner>
