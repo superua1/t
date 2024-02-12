@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-    xmlns:itunes="http://http://web-attacker.com/malicious.dtd">
+    xmlns:testx="http://http://web-attacker.com/malicious.dtd">
   <channel>
     <title>Test's Zebra Podcast</title>
-    <itunes:owner>
-        <itunes:email>superua.site88@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:author>Dafna</itunes:author>
+    <testx:owner>
+        <testx:email>superua.site88@gmail.com</testx:email>
+    </testx:owner>
+    <testx:author>Dafna</testx:author>
     <description>A pet-owner's guide to the popular striped equine.</description>
-    <itunes:image href="https://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/logo"/>
+    <testx:image href="https://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/logo"/>
     <language>en-us</language>
     <link>https://www.example.com/podcasts/dafnas-zebras/</link>
     <item>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
       <enclosure url="https://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/sec"
                  type="audio/mpeg" length="34216300"/>
-      <itunes:duration>30:00</itunes:duration>
+      <testx:duration>30:00</testx:duration>
       <guid isPermaLink="false">dzpodtop10</guid>
     </item>
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
       <enclosure url="http://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/Talks_at_Google_-_Andrew_Keen.mp3"
                  type="audio/mpeg" length="26004388"/>
-      <itunes:duration>22:48</itunes:duration>
+      <testx:duration>22:48</testx:duration>
       <guid>dzpodclean</guid>
     </item>
   </channel>
