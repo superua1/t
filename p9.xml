@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-    xmlns:xtest="http://www.icloud.com/dtds/podcast-1.0.dtd">
+    xmlns:xtest="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Test's Zebra Podcast</title>
     <xtest:owner>
