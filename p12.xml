@@ -1,0 +1,82 @@
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+<link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLe-saRM3WlvPbXFZD6GwYyMB2NC2I_Rbw" xmlns:xtest="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+
+<id>yt:playlist:PLe-saRM3WlvPbXFZD6GwYyMB2NC2I_Rbw</id>
+<yt:playlistId>PLe-saRM3WlvPbXFZD6GwYyMB2NC2I_Rbw</yt:playlistId>
+<yt:channelId>UCZcC9pStULiEVPw29b8DvIw</yt:channelId>
+<title>test</title>
+<author>
+<name>Taylan Bildik</name>
+<uri>https://www.youtube.com/channel/UCZcC9pStULiEVPw29b8DvIw</uri>
+</author>
+<published>2024-02-11T06:56:27+00:00</published>
+<entry>
+<id>yt:video:prcHUA9h11Y</id>
+<yt:videoId>prcHUA9h11Y</yt:videoId>
+<yt:channelId>UCZcC9pStULiEVPw29b8DvIw</yt:channelId>
+<title>Linux Üzerinde Kaynak Koddan Derleyerek Program Kurulumu | linuxdersleri.net</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=prcHUA9h11Y"/>
+<author>
+<name>Taylan Bildik</name>
+<uri>https://www.youtube.com/channel/UCZcC9pStULiEVPw29b8DvIw</uri>
+</author>
+<published>2024-02-11T06:00:10+00:00</published>
+<updated>2024-02-11T06:18:14+00:00</updated>
+<media:group>
+<media:title>Linux Üzerinde Kaynak Koddan Derleyerek Program Kurulumu | linuxdersleri.net</media:title>
+<media:content url="https://www.youtube.com/v/prcHUA9h11Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i1.ytimg.com/vi/prcHUA9h11Y/hqdefault.jpg" width="480" height="360"/>
+<media:description>Programları kaynak koddan derleyerek nasıl Linux sistemimize kurabileceğimizi ele alıyoruz. Bu video "Temel Linux Eğitimi" müfredatından alınmıştır. Eğitim içeriğine göz atmak için aşağıdaki bağlantıyı kullanabilirsiniz. https://www.linuxdersleri.net/kurs Sıralı Linux dokümanlarını incelemek isterseniz aşağıdaki bağlantıyı kullanabilirsiniz. https://www.linuxdersleri.net/temel-linux</media:description>
+<media:community>
+<media:starRating count="12" average="5.00" min="1" max="5"/>
+<media:statistics views="174"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:prcHUA9h11Y</id>
+<yt:videoId>prcHUA9h11Y</yt:videoId>
+<yt:channelId>UCZcC9pStULiEVPw29b8DvIw</yt:channelId>
+<title>Linux Üzerinde Kaynak Koddan Derleyerek Program Kurulumu | linuxdersleri.net</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=prcHUA9h11Y"/>
+<author>
+<name>Taylan Bildik</name>
+<uri>https://www.youtube.com/channel/UCZcC9pStULiEVPw29b8DvIw</uri>
+</author>
+<published>2024-02-11T06:00:10+00:00</published>
+<updated>2024-02-11T06:18:14+00:00</updated>
+<media:group>
+<media:title>Linux Üzerinde Kaynak Koddan Derleyerek Program Kurulumu | linuxdersleri.net</media:title>
+<media:content url="https://www.youtube.com/v/prcHUA9h11Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i1.ytimg.com/vi/prcHUA9h11Y/hqdefault.jpg" width="480" height="360"/>
+<media:description>Programları kaynak koddan derleyerek nasıl Linux sistemimize kurabileceğimizi ele alıyoruz. Bu video "Temel Linux Eğitimi" müfredatından alınmıştır. Eğitim içeriğine göz atmak için aşağıdaki bağlantıyı kullanabilirsiniz. https://www.linuxdersleri.net/kurs Sıralı Linux dokümanlarını incelemek isterseniz aşağıdaki bağlantıyı kullanabilirsiniz. https://www.linuxdersleri.net/temel-linux</media:description>
+<media:community>
+<media:starRating count="12" average="5.00" min="1" max="5"/>
+<media:statistics views="174"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:prcHUA9h11Y</id>
+<yt:videoId>prcHUA9h11Y</yt:videoId>
+<yt:channelId>UCZcC9pStULiEVPw29b8DvIw</yt:channelId>
+<title>Linux Üzerinde Kaynak Koddan Derleyerek Program Kurulumu | linuxdersleri.net</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=prcHUA9h11Y"/>
+<author>
+<name>Taylan Bildik</name>
+<uri>https://www.youtube.com/channel/UCZcC9pStULiEVPw29b8DvIw</uri>
+</author>
+<published>2024-02-11T06:00:10+00:00</published>
+<updated>2024-02-11T06:18:14+00:00</updated>
+<media:group>
+<media:title>Linux Üzerinde Kaynak Koddan Derleyerek Program Kurulumu | linuxdersleri.net</media:title>
+<media:content url="https://www.youtube.com/v/prcHUA9h11Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i1.ytimg.com/vi/prcHUA9h11Y/hqdefault.jpg" width="480" height="360"/>
+<media:description>Programları kaynak koddan derleyerek nasıl Linux sistemimize kurabileceğimizi ele alıyoruz. Bu video "Temel Linux Eğitimi" müfredatından alınmıştır. Eğitim içeriğine göz atmak için aşağıdaki bağlantıyı kullanabilirsiniz. https://www.linuxdersleri.net/kurs Sıralı Linux dokümanlarını incelemek isterseniz aşağıdaki bağlantıyı kullanabilirsiniz. https://www.linuxdersleri.net/temel-linux</media:description>
+<media:community>
+<media:starRating count="12" average="5.00" min="1" max="5"/>
+<media:statistics views="174"/>
+</media:community>
+</media:group>
+</entry>
+</feed>
