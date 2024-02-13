@@ -1,0 +1,56 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Apple Events (video)</title>
+<itunes:author>Apple</itunes:author>
+<link>http://www.apple.com/</link>
+<language>en-us</language>
+<copyright>Copyright © 2021 Apple</copyright>
+<itunes:owner>
+<itunes:name>Apple</itunes:name>
+<itunes:email>podcasts@apple.com</itunes:email>
+</itunes:owner>
+<description>The Apple Events podcast is home to the latest keynote addresses. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology.</description>
+<itunes:subtitle>The Apple Events podcast is home to the latest keynote addresses. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology.</itunes:subtitle>
+<itunes:summary>The Apple Events podcast is home to the latest keynote addresses. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology.</itunes:summary>
+<itunes:keywords>keynote, mac, macintosh, osx, appletv, steve, ipod, iphone, presentation, sdk, xcode, ipad</itunes:keywords>
+<itunes:image href="https://applehosted.podcasts.apple.com/apple_keynotes/images/Show_Cover-Show_AppleEvents_Video.png"/>
+<category>Technology</category>
+<itunes:category text="Technology">
+<itunes:category text="Tech News"/>
+</itunes:category>
+<itunes:explicit>no</itunes:explicit>
+<item>
+<title>Introducing Apple Events (video)</title>
+<itunes:isClosedCaptioned>no</itunes:isClosedCaptioned>
+<itunes:author>Apple</itunes:author>
+<description>The Apple Special Events podcast is home to the latest keynote addresses, hosted at the Steve Jobs Theater and other special venues. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology. Tap on the episode notes to find transcripts, translations, and more. Follow to be the first to receive new episodes from future events. </description>
+<itunes:summary>The Apple Special Events podcast is home to the latest keynote addresses, hosted at the Steve Jobs Theater and other special venues. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology. Tap on the episode notes to find transcripts, translations, and more. Subscribe for free to be the first to receive new episodes from future events.</itunes:summary>
+<content:encoded> The Apple Special Events podcast is home to the latest keynote addresses, hosted at the Steve Jobs Theater and other special venues. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology. Tap on the episode notes to find transcripts, translations, and more. Subscribe for free to be the first to receive new episodes from future events.</content:encoded>
+<enclosure length="94" type="audio/mpeg" url="https://applehosted.podcasts.apple.com/apple_keynotes/2020/Apple%20Special%20Events%20Podcast%20Promo%20-%20WATCH-1.m4a"/>
+<itunes:episodeType>trailer</itunes:episodeType>
+<guid>06212020</guid>
+<pubDate>Sun, 21 June 2020 10:00:00 PDT</pubDate>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>00:28</itunes:duration>
+</item>
+<item>
+<title>Apple Event — October 30</title>
+<itunes:isClosedCaptioned>yes</itunes:isClosedCaptioned>
+<itunes:author>Apple</itunes:author>
+<description>
+<![CDATA[ <p>Watch the special Apple Event to learn about the new MacBook Pro and iMac with the M3 family of chips.</p> ]]>
+</description>
+<itunes:summary>Watch the special Apple Event to learn about the new MacBook Pro and iMac with the M3 family of chips.</itunes:summary>
+<content:encoded>
+<![CDATA[ <p>Watch the special Apple Event to learn about the new MacBook Pro and iMac with the M3 family of chips.</p> ]]>
+</content:encoded>
+<enclosure length="541751091" type="video/x-m4v" url="https://applehosted.podcasts.apple.com/apple_keynotes/2023/231030_1080p.mp4"/>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:image href="https://applehosted.podcasts.apple.com/apple_keynotes/images/Episode_Artwork-10-2023.png"/>
+<guid>10302023</guid>
+<pubDate>Mon, 30 October 2023 17:00:00 PDT</pubDate>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>00:30:31</itunes:duration>
+</item>
+</channel>
+</rss>
