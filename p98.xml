@@ -1,13 +1,13 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
-<title>Apple Events (video)</title>
+<title>Apple Events (test)</title>
 <itunes:author>Apple</itunes:author>
 <link>http://www.apple.com/</link>
 <language>en-us</language>
 <copyright>Copyright © 2021 Apple</copyright>
 <itunes:owner>
 <itunes:name>Apple</itunes:name>
-<itunes:email>podcasts@apple.com</itunes:email>
+<itunes:email>taylanbildik@gmail.com</itunes:email>
 </itunes:owner>
 <description>The Apple Events podcast is home to the latest keynote addresses. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology.</description>
 <itunes:subtitle>The Apple Events podcast is home to the latest keynote addresses. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology.</itunes:subtitle>
