@@ -1,6 +1,6 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
-<title>Apple Events (test)</title>
+<title>Apple Events (test2)</title>
 <itunes:author>Apple</itunes:author>
 <link>http://www.apple.com/</link>
 <language>en-us</language>
@@ -26,7 +26,7 @@
 <description>The Apple Special Events podcast is home to the latest keynote addresses, hosted at the Steve Jobs Theater and other special venues. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology. Tap on the episode notes to find transcripts, translations, and more. Follow to be the first to receive new episodes from future events. </description>
 <itunes:summary>The Apple Special Events podcast is home to the latest keynote addresses, hosted at the Steve Jobs Theater and other special venues. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology. Tap on the episode notes to find transcripts, translations, and more. Subscribe for free to be the first to receive new episodes from future events.</itunes:summary>
 <content:encoded> The Apple Special Events podcast is home to the latest keynote addresses, hosted at the Steve Jobs Theater and other special venues. Watch announcements of new products and services and browse the archive of past events to relive revolutionary moments in the history of personal technology. Tap on the episode notes to find transcripts, translations, and more. Subscribe for free to be the first to receive new episodes from future events.</content:encoded>
-<enclosure length="94" type="audio/mpeg" url="https://applehosted.podcasts.apple.com/apple_keynotes/2020/Apple%20Special%20Events%20Podcast%20Promo%20-%20WATCH-1.m4a"/>
+<enclosure length="94" type="audio/mpeg" url="https://www.youtube.com/embed/Fic-JWY1A34"/>
 <itunes:episodeType>trailer</itunes:episodeType>
 <guid>06212020</guid>
 <pubDate>Sun, 21 June 2020 10:00:00 PDT</pubDate>
